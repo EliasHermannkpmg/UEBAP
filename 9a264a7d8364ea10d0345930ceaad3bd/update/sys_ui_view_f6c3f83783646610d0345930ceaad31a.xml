@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>tabelle</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-03 12:44:53</sys_created_on>
+        <sys_id>f6c3f83783646610d0345930ceaad31a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tabelle</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_ui_view_f6c3f83783646610d0345930ceaad31a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-03 12:44:53</sys_updated_on>
+        <title>tabelle</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

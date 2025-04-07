@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="Abwesenheit des Mitarbeiters">d642edf683282210d0345930ceaad391</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 13:34:52</sys_created_on>
+        <sys_id>6172e13a83282210d0345930ceaad396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Worktimes_etl_ihub">1242ad7683282210d0345930ceaad3bb</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">2172e13a83282210d0345930ceaad391</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_6172e13a83282210d0345930ceaad396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 13:34:52</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Abwesenheit des Mitarbeiters_sn_ihub_target_abwesenheit_des_mitarbeiters">6d72e13a83282210d0345930ceaad332</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

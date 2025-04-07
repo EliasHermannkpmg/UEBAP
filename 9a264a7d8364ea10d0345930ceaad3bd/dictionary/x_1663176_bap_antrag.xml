@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="67caae5b83a4e210d0345930ceaad3e3" label="Antrag" max_length="40" name="x_1663176_bap_antrag" type="collection">
+        <element label="Personalnummer" max_length="40" name="personalnummer" type="integer"/>
+        <element label="Zu beantragende Gesamtzeit" max_length="255" name="zu_beantragende_gesamtzeit" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Kalenderwoche" max_length="40" name="kalenderwoche" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>831094fa83602210d0345930ceaad38e</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>test789</path>
+        <root_macroponent display_value="Breadcrumb App Shell">e341e22cc32e2010ea04a5a1d840dd02</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 07:35:04</sys_created_on>
+        <sys_id>4f10dcfa83602210d0345930ceaad381</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test789</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_ux_page_registry_4f10dcfa83602210d0345930ceaad381</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 07:35:04</sys_updated_on>
+        <title>test789</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</application>
+        <file_path/>
+        <instance_id>f7ab70001ba14e9865324089bd4bcb36</instance_id>
+        <instance_name>dev258808</instance_name>
+        <name>sys_ux_page_registry_4f10dcfa83602210d0345930ceaad381</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>831094fa83602210d0345930ceaad38e</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>test789</path><root_macroponent display_value="Breadcrumb App Shell">e341e22cc32e2010ea04a5a1d840dd02</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-31 07:35:04</sys_created_on><sys_id>4f10dcfa83602210d0345930ceaad381</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test789</sys_name><sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package><sys_policy/><sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope><sys_update_name>sys_ux_page_registry_4f10dcfa83602210d0345930ceaad381</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-31 07:35:04</sys_updated_on><title>test789</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1769172643</payload_hash>
+        <record_name>test789</record_name>
+        <reverted_from/>
+        <source>9a264a7d8364ea10d0345930ceaad3ce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 07:35:04</sys_created_on>
+        <sys_id>4310dcfa83602210d0345930ceaad385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195eb2018d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 07:35:04</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>4710dcfaa3602210bc9e6a7fa2eb7884</update_guid>
+        <update_guid_history>4710dcfaa3602210bc9e6a7fa2eb7884:1769172643</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 08:30:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>881507e7a8ed4ab885d2d3103c8dfe40</sys_id>
+        <sys_metadata>4f10dcfa83602210d0345930ceaad381</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test789</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_scope_delete display_value="">c021658bf9864762af2bf11047514dc4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_4f10dcfa83602210d0345930ceaad381</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_4f10dcfa83602210d0345930ceaad381">4310dcfa83602210d0345930ceaad385</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 08:30:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

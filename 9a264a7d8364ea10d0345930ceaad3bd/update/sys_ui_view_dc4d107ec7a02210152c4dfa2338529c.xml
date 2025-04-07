@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-vorgesetzter-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 08:32:31</sys_created_on>
+        <sys_id>dc4d107ec7a02210152c4dfa2338529c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Vorgesetzter 0</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_ui_view_dc4d107ec7a02210152c4dfa2338529c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 08:32:31</sys_updated_on>
+        <title>Workspace Vorgesetzter 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

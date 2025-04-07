@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="zu_beantragende_gesamtzeit" label="Zu beantragende Gesamtzeit" language="en" table="x_1663176_bap_antrag">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>zu_beantragende_gesamtzeit</element>
+            <help/>
+            <hint/>
+            <label>Zu beantragende Gesamtzeit</label>
+            <language>en</language>
+            <name>x_1663176_bap_antrag</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-02 08:11:25</sys_created_on>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>Zu beantragende Gesamtzeit</sys_name>
+            <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+            <sys_update_name>sys_documentation_x_1663176_bap_antrag_zu_beantragende_gesamtzeit_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-02 08:45:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

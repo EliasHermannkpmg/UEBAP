@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1663176_bap_test123</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 06:57:32</sys_created_on>
+        <sys_id>dd870c7e83202210d0345930ceaad371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1663176_bap_test123</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_security_acl_dd870c7e83202210d0345930ceaad371</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 06:57:32</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</application>
+        <file_path/>
+        <instance_id>f7ab70001ba14e9865324089bd4bcb36</instance_id>
+        <instance_name>dev258808</instance_name>
+        <name>sys_security_acl_dd870c7e83202210d0345930ceaad371</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Local</local_or_existing><name>x_1663176_bap_test123</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-31 06:57:32</sys_created_on><sys_id>dd870c7e83202210d0345930ceaad371</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1663176_bap_test123</sys_name><sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package><sys_policy/><sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope><sys_update_name>sys_security_acl_dd870c7e83202210d0345930ceaad371</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-31 06:57:32</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>207958724</payload_hash>
+        <record_name>x_1663176_bap_test123</record_name>
+        <reverted_from/>
+        <source>9a264a7d8364ea10d0345930ceaad3ce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 06:57:32</sys_created_on>
+        <sys_id>1d870c7e83202210d0345930ceaad374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195eafdbbf90000002</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 06:57:32</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>11870c7ee2202210c8c5f9804de9da74</update_guid>
+        <update_guid_history>11870c7ee2202210c8c5f9804de9da74:207958724</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 08:30:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>7dd1e913cfb24d648c6503f01c1048c1</sys_id>
+        <sys_metadata>dd870c7e83202210d0345930ceaad371</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1663176_bap_test123</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_parent display_value="">5c87887e83202210d0345930ceaad3e3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_scope_delete display_value="">c021658bf9864762af2bf11047514dc4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_dd870c7e83202210d0345930ceaad371</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_dd870c7e83202210d0345930ceaad371">1d870c7e83202210d0345930ceaad374</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 08:30:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
