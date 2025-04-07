@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Vorgesetzter App Config">d44d107ea4a02210d9fd7b06ae8e45a4</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table</fields>
+        <icon/>
+        <name>Home</name>
+        <optional_parameters>query,views,activityLogs,extraParams,fields,screen,selectedTabIndex,userPrefs,sysId,edit</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>home</route_type>
+        <screen_type display_value="Home">904d107eb9a022107dab36731af02e9d</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 08:32:30</sys_created_on>
+        <sys_id>584d107e7da022104033412598fb8c9c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_ux_app_route_584d107e7da022104033412598fb8c9c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 09:49:59</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=584d107e7da022104033412598fb8c9c"/>
+</record_update>

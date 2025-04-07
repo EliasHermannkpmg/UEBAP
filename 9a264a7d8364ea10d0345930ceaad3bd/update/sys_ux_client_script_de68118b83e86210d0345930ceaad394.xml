@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Home">504d107e5ea02210ad6d1bad8b6eb598</macroponent>
+        <name>Genehmigung einholen</name>
+        <preset/>
+        <required_translations>[]</required_translations>
+        <script><![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+function handler({api, event, helpers, imports}) {
+for (let i = 1; i <= 13; i++) {
+    let iString = i.toString();
+    var week = "week"+iString;
+    const input = api.state[week];
+    const templateFields = 'zu_beantragende_gesamtzeit=' + input +  '^kalenderwoche=' + i + '^personalnummer=' +120;
+    api.data.create_record_1.execute({
+    "table": "x_1663176_bap_antrag",
+    "templateFields": templateFields,
+    "useSetDisplayValue": false
+});
+}
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-01 10:09:32</sys_created_on>
+        <sys_id>de68118b83e86210d0345930ceaad394</sys_id>
+        <sys_mod_count>30</sys_mod_count>
+        <sys_name>Genehmigung einholen</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_ux_client_script_de68118b83e86210d0345930ceaad394</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-02 09:36:59</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

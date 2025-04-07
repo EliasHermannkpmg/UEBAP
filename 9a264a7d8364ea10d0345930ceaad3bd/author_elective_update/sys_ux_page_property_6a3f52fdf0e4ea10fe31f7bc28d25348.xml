@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="">263f52fd63e4ea107e6d468550a51557</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 15:26:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6a3f52fdf0e4ea10fe31f7bc28d25348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_ux_page_property_6a3f52fdf0e4ea10fe31f7bc28d25348</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 15:26:28</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1663176_bap.263f52fd63e4ea107e6d468550a51557.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</application>
+        <file_path/>
+        <instance_id>f7ab70001ba14e9865324089bd4bcb36</instance_id>
+        <instance_name>dev258808</instance_name>
+        <name>sys_ux_page_property_6a3f52fdf0e4ea10fe31f7bc28d25348</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_notification_uiRoute</name><page display_value="">263f52fd63e4ea107e6d468550a51557</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-28 15:26:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>6a3f52fdf0e4ea10fe31f7bc28d25348</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_notification_uiRoute</sys_name><sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package><sys_policy/><sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope><sys_update_name>sys_ux_page_property_6a3f52fdf0e4ea10fe31f7bc28d25348</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-28 15:26:28</sys_updated_on><type>string</type><unique_name>x_1663176_bap.263f52fd63e4ea107e6d468550a51557.root.chrome_notification_uiRoute</unique_name><value>cb1af195872023002941b53046cb0b4e</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>887070798</payload_hash>
+        <record_name>chrome_notification_uiRoute</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 06:31:47</sys_created_on>
+        <sys_id>44a1cc7683202210d0345930ceaad3f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195eae629460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 06:31:47</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>04a1cc76a1202210db5c0ed2bfb68bf9</update_guid>
+        <update_guid_history>04a1cc76a1202210db5c0ed2bfb68bf9:887070798</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 06:31:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>69402a226679451098089f60f0ed9544</sys_id>
+        <sys_metadata>6a3f52fdf0e4ea10fe31f7bc28d25348</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_scope_delete display_value="">c021658bf9864762af2bf11047514dc4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_6a3f52fdf0e4ea10fe31f7bc28d25348</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_6a3f52fdf0e4ea10fe31f7bc28d25348">44a1cc7683202210d0345930ceaad3f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 06:31:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

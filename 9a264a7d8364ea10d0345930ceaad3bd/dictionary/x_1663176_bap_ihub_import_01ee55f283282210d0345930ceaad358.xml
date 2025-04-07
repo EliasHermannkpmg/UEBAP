@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9282653a83282210d0345930ceaad3ac" extends="sys_import_set_row" label="Worktimes" max_length="40" name="x_1663176_bap_ihub_import_01ee55f283282210d0345930ceaad358" type="collection">
+        <element attributes="import_attribute_name=Kalenderwoche" label="Kalenderwoche" max_length="40" name="u_kalenderwoche" type="integer"/>
+        <element attributes="import_attribute_name=Personalnummer" label="Personalnummer" max_length="40" name="u_personalnummer" type="integer"/>
+        <element attributes="import_attribute_name=Abwesenheit des Mitarbeiters" label="Abwesenheit des Mitarbeiters" max_length="40" name="u_abwesenheit_des_mitarbeiters" type="integer"/>
+        <element attributes="import_attribute_name=Max. Anzahl Wochenstunden" label="Max. Anzahl Wochenstunden" max_length="40" name="u_max__anzahl_wochenstunden" type="integer"/>
+        <element attributes="import_attribute_name=Bereits Genehmigte Stunden" label="Bereits Genehmigte Stunden" max_length="40" name="u_bereits_genehmigte_stunden" type="integer"/>
+    </element>
+</database>

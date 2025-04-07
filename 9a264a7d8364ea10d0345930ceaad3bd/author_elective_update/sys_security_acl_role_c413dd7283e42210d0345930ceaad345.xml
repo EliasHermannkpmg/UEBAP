@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 12:27:35</sys_created_on>
+        <sys_id>c413dd7283e42210d0345930ceaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1663176_bap_quartale.x_1663176_bap.betriebsrat</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_security_acl display_value="x_1663176_bap_quartale">cc13dd7283e42210d0345930ceaad31c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c413dd7283e42210d0345930ceaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 12:27:35</sys_updated_on>
+        <sys_user_role display_value="x_1663176_bap.betriebsrat" name="x_1663176_bap.betriebsrat">1e264a7d8364ea10d0345930ceaad3d3</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</application>
+        <file_path/>
+        <instance_id>f7ab70001ba14e9865324089bd4bcb36</instance_id>
+        <instance_name>dev258808</instance_name>
+        <name>sys_security_acl_role_c413dd7283e42210d0345930ceaad345</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-31 12:27:35</sys_created_on><sys_id>c413dd7283e42210d0345930ceaad345</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1663176_bap_quartale.x_1663176_bap.betriebsrat</sys_name><sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package><sys_policy/><sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope><sys_security_acl display_value="x_1663176_bap_quartale">cc13dd7283e42210d0345930ceaad31c</sys_security_acl><sys_update_name>sys_security_acl_role_c413dd7283e42210d0345930ceaad345</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-31 12:27:35</sys_updated_on><sys_user_role display_value="x_1663176_bap.betriebsrat" name="x_1663176_bap.betriebsrat">1e264a7d8364ea10d0345930ceaad3d3</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1731218184</payload_hash>
+        <record_name>x_1663176_bap_quartale.x_1663176_bap.betriebsrat</record_name>
+        <reverted_from/>
+        <source>9a264a7d8364ea10d0345930ceaad3ce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 12:27:35</sys_created_on>
+        <sys_id>4813dd7283e42210d0345930ceaad348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195ec2be99d0000002</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 12:27:35</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4c13dd7216e422108b0091e3d0bfe547</update_guid>
+        <update_guid_history>4c13dd7216e422108b0091e3d0bfe547:1731218184</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1663176_bap_quartale.x_1663176_bap.betriebsrat">f7c351f283e42210d0345930ceaad3fc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 12:30:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4bc919d4920842c9a0750398ebbbdaa1</sys_id>
+        <sys_metadata>c413dd7283e42210d0345930ceaad345</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1663176_bap_quartale.x_1663176_bap.betriebsrat</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_parent display_value="">cc13dd7283e42210d0345930ceaad31c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_scope_delete display_value="">c021658bf9864762af2bf11047514dc4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_c413dd7283e42210d0345930ceaad345</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_c413dd7283e42210d0345930ceaad345">4813dd7283e42210d0345930ceaad348</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 12:30:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

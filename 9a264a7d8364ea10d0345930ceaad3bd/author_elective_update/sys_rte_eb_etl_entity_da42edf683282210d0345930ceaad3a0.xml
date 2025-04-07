@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>IHUB_TARGET_TEMP_x_1663176_bap_arbeitszeiten</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path>Temp_x_1663176_bap_arbeitszeiten</path>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 13:34:06</sys_created_on>
+        <sys_id>da42edf683282210d0345930ceaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_1663176_bap_arbeitszeiten</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Worktimes_etl_ihub">1242ad7683282210d0345930ceaad3bb</sys_rte_eb_definition>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_da42edf683282210d0345930ceaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 13:34:06</sys_updated_on>
+        <table/>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</application>
+        <file_path/>
+        <instance_id>f7ab70001ba14e9865324089bd4bcb36</instance_id>
+        <instance_name>dev258808</instance_name>
+        <name>sys_rte_eb_etl_entity_da42edf683282210d0345930ceaad3a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>IHUB_TARGET_TEMP_x_1663176_bap_arbeitszeiten</name><parent_entity/><parent_id_field/><path>Temp_x_1663176_bap_arbeitszeiten</path><run_business_rules>false</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-31 13:34:06</sys_created_on><sys_id>da42edf683282210d0345930ceaad3a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IHUB_TARGET_TEMP_x_1663176_bap_arbeitszeiten</sys_name><sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package><sys_policy/><sys_rte_eb_definition display_value="Worktimes_etl_ihub">1242ad7683282210d0345930ceaad3bb</sys_rte_eb_definition><sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope><sys_update_name>sys_rte_eb_etl_entity_da42edf683282210d0345930ceaad3a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-31 13:34:06</sys_updated_on><table/></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>1303083975</payload_hash>
+        <record_name>IHUB_TARGET_TEMP_x_1663176_bap_arbeitszeiten</record_name>
+        <reverted_from/>
+        <source>9a264a7d8364ea10d0345930ceaad3ce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 13:34:06</sys_created_on>
+        <sys_id>9a42edf683282210d0345930ceaad3a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195ec68cd3f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 13:34:06</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>9e42edf6b92822103918712b33da0aa1</update_guid>
+        <update_guid_history>9e42edf6b92822103918712b33da0aa1:1303083975</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 13:34:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>154bfabad2e842b089de865b2001f6c4</sys_id>
+        <sys_metadata>da42edf683282210d0345930ceaad3a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_1663176_bap_arbeitszeiten</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_scope_delete display_value="">c021658bf9864762af2bf11047514dc4</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_da42edf683282210d0345930ceaad3a0</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_da42edf683282210d0345930ceaad3a0">9a42edf683282210d0345930ceaad3a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 13:34:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

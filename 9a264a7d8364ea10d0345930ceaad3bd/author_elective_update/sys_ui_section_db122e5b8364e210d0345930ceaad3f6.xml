@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="db122e5b8364e210d0345930ceaad3f6" sys_domain="global" table="x_1663176_bap_your_work_tasks" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-02 07:29:55</sys_created_on>
+            <sys_id>1b126a9f8364e210d0345930ceaad35a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1663176_bap_your_work_tasks" sys_domain="global" view="Default view">db122e5b8364e210d0345930ceaad3f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-02 07:29:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-02 07:31:02</sys_created_on>
+            <sys_id>a35222df8364e210d0345930ceaad346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1663176_bap_your_work_tasks" sys_domain="global" view="Default view">db122e5b8364e210d0345930ceaad3f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-02 07:31:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-02 07:31:21</sys_created_on>
+            <sys_id>1072ee9f8364e210d0345930ceaad31b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1663176_bap_your_work_tasks" sys_domain="global" view="Default view">db122e5b8364e210d0345930ceaad3f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-02 07:31:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1663176_bap_your_work_tasks</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-02 07:29:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db122e5b8364e210d0345930ceaad3f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1663176_bap_your_work_tasks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+            <sys_update_name>sys_ui_section_db122e5b8364e210d0345930ceaad3f6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-02 07:29:55</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</application>
+        <file_path/>
+        <instance_id>f7ab70001ba14e9865324089bd4bcb36</instance_id>
+        <instance_name>dev258808</instance_name>
+        <name>sys_ui_section_db122e5b8364e210d0345930ceaad3f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="db122e5b8364e210d0345930ceaad3f6" sys_domain="global" table="x_1663176_bap_your_work_tasks" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-02 07:29:55</sys_created_on><sys_id>1b126a9f8364e210d0345930ceaad35a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1663176_bap_your_work_tasks" sys_domain="global" view="Default view">db122e5b8364e210d0345930ceaad3f6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-02 07:29:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-02 07:31:02</sys_created_on><sys_id>a35222df8364e210d0345930ceaad346</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1663176_bap_your_work_tasks" sys_domain="global" view="Default view">db122e5b8364e210d0345930ceaad3f6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-02 07:31:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-02 07:31:21</sys_created_on><sys_id>1072ee9f8364e210d0345930ceaad31b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1663176_bap_your_work_tasks" sys_domain="global" view="Default view">db122e5b8364e210d0345930ceaad3f6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-02 07:31:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1663176_bap_your_work_tasks</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-02 07:29:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>db122e5b8364e210d0345930ceaad3f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1663176_bap_your_work_tasks</sys_name><sys_overrides/><sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package><sys_policy/><sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope><sys_update_name>sys_ui_section_db122e5b8364e210d0345930ceaad3f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-02 07:29:55</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>105106908</payload_hash>
+        <record_name>Your Work Tasks</record_name>
+        <reverted_from/>
+        <source>9a264a7d8364ea10d0345930ceaad3ce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-02 07:31:22</sys_created_on>
+        <sys_id>9872ee9f8364e210d0345930ceaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195f5696d640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-02 07:31:22</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1072ee9f8a64e21038a54142c16c401d</update_guid>
+        <update_guid_history>1072ee9f8a64e21038a54142c16c401d:105106908,635222df4d64e21059dcf6535b74fa48:-127257462,97126a9f9364e210d3c463b1de379f5c:1549009452,13126a9f0564e210853fc3dbda407c5a:-495140180</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-02 13:23:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>8f0fc47a1aae45efb4e8700dd24f1501</sys_id>
+        <sys_metadata>db122e5b8364e210d0345930ceaad3f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1663176_bap_your_work_tasks</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_parent display_value="">62122a9f8364e210d0345930ceaad3d2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_scope_delete display_value="">c021658bf9864762af2bf11047514dc4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_db122e5b8364e210d0345930ceaad3f6</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_db122e5b8364e210d0345930ceaad3f6">9872ee9f8364e210d0345930ceaad31d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-02 13:23:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

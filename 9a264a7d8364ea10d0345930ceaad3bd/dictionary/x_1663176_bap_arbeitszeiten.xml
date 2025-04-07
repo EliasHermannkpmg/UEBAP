@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dd02a5f683282210d0345930ceaad372" label="Arbeitszeiten" max_length="40" name="x_1663176_bap_arbeitszeiten" type="collection">
+        <element label="Max. Anzahl Wochenstunden" max_length="40" name="max_anzahl_wochenstunden" type="integer"/>
+        <element label="Personalnummer" max_length="40" name="personalnummer" type="integer"/>
+        <element label="Abwesenheit des Mitarbeiters" max_length="40" name="abwesenheit_des_mitarbeiters" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Bereits Genehmigte Stunden" max_length="40" name="bereits_genehmigte_stunden" type="integer"/>
+        <element label="Kalenderwoche" max_length="40" name="kalenderwoche" type="integer"/>
+    </element>
+</database>

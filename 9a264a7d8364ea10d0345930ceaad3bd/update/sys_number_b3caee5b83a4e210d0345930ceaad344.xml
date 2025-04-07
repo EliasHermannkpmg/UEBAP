@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1663176_bap_antrag">x_1663176_bap_antrag</category>
+        <maximum_digits>7</maximum_digits>
+        <number>100000</number>
+        <prefix>ANT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-02 08:07:55</sys_created_on>
+        <sys_id>b3caee5b83a4e210d0345930ceaad344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ANT</sys_name>
+        <sys_package display_value="ÜBAP" source="x_1663176_bap">9a264a7d8364ea10d0345930ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ÜBAP">9a264a7d8364ea10d0345930ceaad3bd</sys_scope>
+        <sys_update_name>sys_number_b3caee5b83a4e210d0345930ceaad344</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-02 08:07:55</sys_updated_on>
+    </sys_number>
+</record_update>
